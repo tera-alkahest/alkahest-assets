@@ -1,0 +1,168 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "http://raw.githubusercontent.com/tera-alkahest/alkahest-assets/master/manifest.schema.json",
+    "title": "Alkahest Assets Manifest",
+    "type": "object",
+    "properties": {
+        "de": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "sha1": {
+                    "type": "string"
+                },
+                "sha256": {
+                    "type": "string"
+                },
+                "sha384": {
+                    "type": "string"
+                },
+                "sha512": {
+                    "type": "string"
+                }
+            }
+        },
+        "fr": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "sha1": {
+                    "type": "string"
+                },
+                "sha256": {
+                    "type": "string"
+                },
+                "sha384": {
+                    "type": "string"
+                },
+                "sha512": {
+                    "type": "string"
+                }
+            }
+        },
+        "na": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "sha1": {
+                    "type": "string"
+                },
+                "sha256": {
+                    "type": "string"
+                },
+                "sha384": {
+                    "type": "string"
+                },
+                "sha512": {
+                    "type": "string"
+                }
+            }
+        },
+        "ru": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "sha1": {
+                    "type": "string"
+                },
+                "sha256": {
+                    "type": "string"
+                },
+                "sha384": {
+                    "type": "string"
+                },
+                "sha512": {
+                    "type": "string"
+                }
+            }
+        },
+        "se": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "sha1": {
+                    "type": "string"
+                },
+                "sha256": {
+                    "type": "string"
+                },
+                "sha384": {
+                    "type": "string"
+                },
+                "sha512": {
+                    "type": "string"
+                }
+            }
+        },
+        "th": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "sha1": {
+                    "type": "string"
+                },
+                "sha256": {
+                    "type": "string"
+                },
+                "sha384": {
+                    "type": "string"
+                },
+                "sha512": {
+                    "type": "string"
+                }
+            }
+        },
+        "tw": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "sha1": {
+                    "type": "string"
+                },
+                "sha256": {
+                    "type": "string"
+                },
+                "sha384": {
+                    "type": "string"
+                },
+                "sha512": {
+                    "type": "string"
+                }
+            }
+        },
+        "uk": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "sha1": {
+                    "type": "string"
+                },
+                "sha256": {
+                    "type": "string"
+                },
+                "sha384": {
+                    "type": "string"
+                },
+                "sha512": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}
