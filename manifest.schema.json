@@ -8,18 +8,23 @@
             "type": "object",
             "properties": {
                 "name": {
+                    "description": "File name of the asset.",
                     "type": "string"
                 },
                 "sha1": {
+                    "description": "SHA-1 checksum of the asset.",
                     "type": "string"
                 },
                 "sha256": {
+                    "description": "SHA-256 checksum of the asset.",
                     "type": "string"
                 },
                 "sha384": {
+                    "description": "SHA-384 checksum of the asset.",
                     "type": "string"
                 },
                 "sha512": {
+                    "description": "SHA-512 checksum of the asset.",
                     "type": "string"
                 }
             },
