@@ -22,7 +22,14 @@
                 "sha512": {
                     "type": "string"
                 }
-            }
+            },
+            "required": [
+                "name",
+                "sha1",
+                "sha256",
+                "sha384",
+                "sha512"
+            ]
         },
         "fr": {
             "type": "object",
@@ -42,7 +49,14 @@
                 "sha512": {
                     "type": "string"
                 }
-            }
+            },
+            "required": [
+                "name",
+                "sha1",
+                "sha256",
+                "sha384",
+                "sha512"
+            ]
         },
         "na": {
             "type": "object",
@@ -62,7 +76,14 @@
                 "sha512": {
                     "type": "string"
                 }
-            }
+            },
+            "required": [
+                "name",
+                "sha1",
+                "sha256",
+                "sha384",
+                "sha512"
+            ]
         },
         "ru": {
             "type": "object",
@@ -82,7 +103,14 @@
                 "sha512": {
                     "type": "string"
                 }
-            }
+            },
+            "required": [
+                "name",
+                "sha1",
+                "sha256",
+                "sha384",
+                "sha512"
+            ]
         },
         "se": {
             "type": "object",
@@ -102,7 +130,14 @@
                 "sha512": {
                     "type": "string"
                 }
-            }
+            },
+            "required": [
+                "name",
+                "sha1",
+                "sha256",
+                "sha384",
+                "sha512"
+            ]
         },
         "th": {
             "type": "object",
@@ -122,7 +157,14 @@
                 "sha512": {
                     "type": "string"
                 }
-            }
+            },
+            "required": [
+                "name",
+                "sha1",
+                "sha256",
+                "sha384",
+                "sha512"
+            ]
         },
         "tw": {
             "type": "object",
@@ -142,7 +184,14 @@
                 "sha512": {
                     "type": "string"
                 }
-            }
+            },
+            "required": [
+                "name",
+                "sha1",
+                "sha256",
+                "sha384",
+                "sha512"
+            ]
         },
         "uk": {
             "type": "object",
@@ -162,7 +211,14 @@
                 "sha512": {
                     "type": "string"
                 }
-            }
+            },
+            "required": [
+                "name",
+                "sha1",
+                "sha256",
+                "sha384",
+                "sha512"
+            ]
         }
     }
 }
