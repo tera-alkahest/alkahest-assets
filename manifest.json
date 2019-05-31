@@ -1,0 +1,18 @@
+{
+    "de": {
+        "name": "DataCenter_Final_GER.dec",
+        "sha512": "a2cf23b600aa6447c04fb39bd53d19ebd4e9f61072cbae87d0f76fc12255b454f2e4b98856d2fc3919a9b59236ab4695e271e1bfac2a06e52f2bc9f33528b943"
+    },
+    "fr": {
+        "name": "DataCenter_Final_FRA.dec",
+        "sha512": "a490cb1714a4fc52d6069105e86262300ce42a750d159acf53afe9802a89aa51a7382f9a6f65266a3343ed630fb2ccd275ea30bd54e4ad19a296f6103d934bd0"
+    },
+    "na": {
+        "name": "DataCenter_Final_USA.dec",
+        "sha512": "999c9d74d8856627ed88a1cc21e382689f2b8b61b3bf1852a8bb1d2a5d526d4d76e8d7923f61395752898b54a82127e15bf90c0a674cc88aa2d76338d196d6b0"
+    },
+    "uk": {
+        "name": "DataCenter_Final_EUR.dec",
+        "sha512": "e43fb6b9fc6832145dac214bf8313fe39c37f22afd3582703838d9129ddd6a2fc4c3e8969746217ce9bd7b01269cc47a9b778daee97bff0093c353bf8ea86d62"
+    }
+}
