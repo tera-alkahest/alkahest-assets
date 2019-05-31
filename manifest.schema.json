@@ -3,222 +3,59 @@
     "$id": "http://raw.githubusercontent.com/tera-alkahest/alkahest-assets/master/manifest.schema.json",
     "title": "Alkahest Assets Manifest",
     "type": "object",
+    "definitions": {
+        "asset": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string"
+                },
+                "sha1": {
+                    "type": "string"
+                },
+                "sha256": {
+                    "type": "string"
+                },
+                "sha384": {
+                    "type": "string"
+                },
+                "sha512": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "name",
+                "sha1",
+                "sha256",
+                "sha384",
+                "sha512"
+            ]
+        }
+    },
     "properties": {
         "de": {
-            "type": "object",
-            "properties": {
-                "name": {
-                    "type": "string"
-                },
-                "sha1": {
-                    "type": "string"
-                },
-                "sha256": {
-                    "type": "string"
-                },
-                "sha384": {
-                    "type": "string"
-                },
-                "sha512": {
-                    "type": "string"
-                }
-            },
-            "required": [
-                "name",
-                "sha1",
-                "sha256",
-                "sha384",
-                "sha512"
-            ]
+            "$ref": "#/definitions/asset"
         },
         "fr": {
-            "type": "object",
-            "properties": {
-                "name": {
-                    "type": "string"
-                },
-                "sha1": {
-                    "type": "string"
-                },
-                "sha256": {
-                    "type": "string"
-                },
-                "sha384": {
-                    "type": "string"
-                },
-                "sha512": {
-                    "type": "string"
-                }
-            },
-            "required": [
-                "name",
-                "sha1",
-                "sha256",
-                "sha384",
-                "sha512"
-            ]
+            "$ref": "#/definitions/asset"
         },
         "na": {
-            "type": "object",
-            "properties": {
-                "name": {
-                    "type": "string"
-                },
-                "sha1": {
-                    "type": "string"
-                },
-                "sha256": {
-                    "type": "string"
-                },
-                "sha384": {
-                    "type": "string"
-                },
-                "sha512": {
-                    "type": "string"
-                }
-            },
-            "required": [
-                "name",
-                "sha1",
-                "sha256",
-                "sha384",
-                "sha512"
-            ]
+            "$ref": "#/definitions/asset"
         },
         "ru": {
-            "type": "object",
-            "properties": {
-                "name": {
-                    "type": "string"
-                },
-                "sha1": {
-                    "type": "string"
-                },
-                "sha256": {
-                    "type": "string"
-                },
-                "sha384": {
-                    "type": "string"
-                },
-                "sha512": {
-                    "type": "string"
-                }
-            },
-            "required": [
-                "name",
-                "sha1",
-                "sha256",
-                "sha384",
-                "sha512"
-            ]
+            "$ref": "#/definitions/asset"
         },
         "se": {
-            "type": "object",
-            "properties": {
-                "name": {
-                    "type": "string"
-                },
-                "sha1": {
-                    "type": "string"
-                },
-                "sha256": {
-                    "type": "string"
-                },
-                "sha384": {
-                    "type": "string"
-                },
-                "sha512": {
-                    "type": "string"
-                }
-            },
-            "required": [
-                "name",
-                "sha1",
-                "sha256",
-                "sha384",
-                "sha512"
-            ]
+            "$ref": "#/definitions/asset"
         },
         "th": {
-            "type": "object",
-            "properties": {
-                "name": {
-                    "type": "string"
-                },
-                "sha1": {
-                    "type": "string"
-                },
-                "sha256": {
-                    "type": "string"
-                },
-                "sha384": {
-                    "type": "string"
-                },
-                "sha512": {
-                    "type": "string"
-                }
-            },
-            "required": [
-                "name",
-                "sha1",
-                "sha256",
-                "sha384",
-                "sha512"
-            ]
+            "$ref": "#/definitions/asset"
         },
         "tw": {
-            "type": "object",
-            "properties": {
-                "name": {
-                    "type": "string"
-                },
-                "sha1": {
-                    "type": "string"
-                },
-                "sha256": {
-                    "type": "string"
-                },
-                "sha384": {
-                    "type": "string"
-                },
-                "sha512": {
-                    "type": "string"
-                }
-            },
-            "required": [
-                "name",
-                "sha1",
-                "sha256",
-                "sha384",
-                "sha512"
-            ]
+            "$ref": "#/definitions/asset"
         },
         "uk": {
-            "type": "object",
-            "properties": {
-                "name": {
-                    "type": "string"
-                },
-                "sha1": {
-                    "type": "string"
-                },
-                "sha256": {
-                    "type": "string"
-                },
-                "sha384": {
-                    "type": "string"
-                },
-                "sha512": {
-                    "type": "string"
-                }
-            },
-            "required": [
-                "name",
-                "sha1",
-                "sha256",
-                "sha384",
-                "sha512"
-            ]
+            "$ref": "#/definitions/asset"
         }
     }
 }
