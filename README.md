@@ -6,6 +6,10 @@ files. They are stored in the form of releases on the GitHub page.
 Users will never need to download anything manually from this repository; the
 Alkahest command line interface will handle that.
 
+The [manifest.json](manifest.json) file contains a list of assets along with
+checksums for various hash algorithms. See
+[manifest.schema.json](manifest.schema.json) for how to interpret the file.
+
 Please do not send pull requests. This repository is maintained by the core
 developers.
 
