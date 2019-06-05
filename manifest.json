@@ -13,6 +13,13 @@
         "sha384": "deeaddfd06437a58021192062cabfaf8a3cdbd7c385d310b41607e04a274988a8332f0157621c351f6a3f1164623350d",
         "sha512": "a490cb1714a4fc52d6069105e86262300ce42a750d159acf53afe9802a89aa51a7382f9a6f65266a3343ed630fb2ccd275ea30bd54e4ad19a296f6103d934bd0"
     },
+    "kr": {
+        "name": "DataCenter_Final.dec",
+        "sha1": "262794bf9d39c5ee11c809f2892cdea9176286e5",
+        "sha256": "de473af80b2ed0f0d853cc50c479fc6818037c151168f88b44b1bdcbf119048d",
+        "sha384": "6417d95db91c282a48f2ce49a155fd29a015c1cdaa16e2d8de9d0807daa1f4cf7edc4ec15f90d65a0b5178fedb79c6e3",
+        "sha512": "13ddf5a52bcac8934f05cd65b5ff708892d33e80037aaf66d4bd74a406cb6d35f523cf787a9b9699874b05cdb337d73306c2d277700aa1c1371a6e05e30fbb54"
+    },
     "na": {
         "name": "DataCenter_Final_USA.dec",
         "sha1": "1a46b7caff855c72b618a69ad5182f8a2fecbf5e",
