@@ -1,4 +1,4 @@
-# ![Alkahest](Alkahest.ico) Alkahest Assets
+# <img src="https://raw.githubusercontent.com/tera-alkahest/alkahest/master/Alkahest.ico" width="32"> Alkahest Assets
 
 This repository holds large binary assets for **Alkahest**, such as data center
 files. They are stored in the form of releases on the GitHub page.
