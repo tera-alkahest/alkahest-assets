@@ -29,10 +29,10 @@
     },
     "na": {
         "name": "DataCenter_Final_USA.dec",
-        "sha1": "1a46b7caff855c72b618a69ad5182f8a2fecbf5e",
-        "sha256": "df61de0345f7e7629e9dad6058f315b62c4eb65810da700c6ca4d8d9a3242c6e",
-        "sha384": "c8ef2e68791cb7bbfb557c1be04e2c7e80a3937fcb9cb101363a0cf3050cbdb066176641b3be5931eb05bb5da095272a",
-        "sha512": "999c9d74d8856627ed88a1cc21e382689f2b8b61b3bf1852a8bb1d2a5d526d4d76e8d7923f61395752898b54a82127e15bf90c0a674cc88aa2d76338d196d6b0"
+        "sha1": "c94793fc68c85c2ec97b24e0d80add8322725828",
+        "sha256": "20383a60e39de0e000a4e082e7d68a22c9a7b7cede84de89f877da5c3bed4680",
+        "sha384": "8461f3716e1d1e3e16886f58801a7d59a588c6285dc8f30cfc26e08cdc154c171aea2c7c301587399c9e5d1e5d59e7a9",
+        "sha512": "aacd2f2e542a96bb16615dc57d52460579778d44d9fa71c09ad3ecb542f52b007d77bacb6d5179a7ccf434d6c19d7baa577e4fd67b48731e7baa484a881da67c"
     },
     "ru": {
         "name": "DataCenter_Final_RUS.dec",
