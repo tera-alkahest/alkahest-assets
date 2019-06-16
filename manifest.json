@@ -29,11 +29,11 @@
     "kr": {
         "name": "DataCenter_Final.dec",
         "version": 349974,
-        "patch": 8501,
-        "sha1": "262794bf9d39c5ee11c809f2892cdea9176286e5",
-        "sha256": "de473af80b2ed0f0d853cc50c479fc6818037c151168f88b44b1bdcbf119048d",
-        "sha384": "6417d95db91c282a48f2ce49a155fd29a015c1cdaa16e2d8de9d0807daa1f4cf7edc4ec15f90d65a0b5178fedb79c6e3",
-        "sha512": "13ddf5a52bcac8934f05cd65b5ff708892d33e80037aaf66d4bd74a406cb6d35f523cf787a9b9699874b05cdb337d73306c2d277700aa1c1371a6e05e30fbb54"
+        "patch": 8502,
+        "sha1": "0b6f66dc957a932894eab7152424df393b1231e2",
+        "sha256": "393d3a0d6dc9fe3c9e486ec7b65a8ece4e16c2026f5055efe933c6a5c0f27c87",
+        "sha384": "4c0579ca48feb5aa8994782bd6b8e3b13fc4e3a405bcaeef78fa63b61a20f0614f04a2451e67bd05765ae97077b44d87",
+        "sha512": "1bffa35e20d474feee2362f0b48fa82b6664449de3da6a4d1d83739bf6354ba45e5400893bb16f22064b36b3eae1711bb1604dac7c273bfed5e65ba038ea52f3"
     },
     "na": {
         "name": "DataCenter_Final_USA.dec",
