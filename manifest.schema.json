@@ -11,6 +11,14 @@
                     "description": "File name of the asset.",
                     "type": "string"
                 },
+                "version": {
+                    "description": "Client version of the asset.",
+                    "type": "integer"
+                },
+                "patch": {
+                    "description": "Client patch of the asset.",
+                    "type": "integer"
+                },
                 "sha1": {
                     "description": "SHA-1 checksum of the asset.",
                     "type": "string"
@@ -30,6 +38,8 @@
             },
             "required": [
                 "name",
+                "version",
+                "patch",
                 "sha1",
                 "sha256",
                 "sha384",
