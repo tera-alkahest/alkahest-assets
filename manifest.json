@@ -1,21 +1,21 @@
 {
     "de": {
         "name": "DataCenter_Final_GER.dec",
-        "version": 350022,
-        "patch": 8205,
-        "sha1": "c6c2ff0332039bc7c9d17ab93aff56fe5f6236ed",
-        "sha256": "8fe6c2eea1f15f181fb967cd32ef25e83882fa38557a7207e9b76e8caa123b6f",
-        "sha384": "f9ba077bb28820e671f3239078511a444e55b9de607555a96fa38a9e95dff9abc9e7eebd63918156d686b9ec0629322c",
-        "sha512": "9c931559b26cb520a257215fb735b49f27173f6aa4815bd1cbccfb4a03559c77964709d2f5c0813f893c4d7fadbf56b8461938cd7834713a4994c0d6a2bb86f5"
+        "version": 353338,
+        "patch": 8307,
+        "sha1": "55b05858f5dd3e1cc5880706f9fb5556196f5ae2",
+        "sha256": "8d3913df7dceb65db30b333e08c6a0f61554decb480c5f0712f0cc961c3cab65",
+        "sha384": "f27fd7d98fd267b592c8ba31e416570b7dd8c266b4f6c1665e2295466b8a7d573aa05ee2a144abc6e702ffed4febf740",
+        "sha512": "fd5349e49a67e33891d58c774ac9458f329af4664f5da6f084c090c2dacae79e3c2776c52ea667b3684f685cb99c5d6c1b06c7d3c5a53b8919408f5471f58b64"
     },
     "fr": {
         "name": "DataCenter_Final_FRA.dec",
-        "version": 350022,
-        "patch": 8205,
-        "sha1": "d22f7a5cd3f6ff91cab09038797fd3812fc40ba3",
-        "sha256": "0ecb5e592a145f247070612c06443eea3faf06e2c89d726c425f4ca165104bc0",
-        "sha384": "0bf0b5f05accbceff3f01d4e0c23db2c253b5381b3ecbb939358dda345bd4582f074c299fac645797e4603ccc5b214e9",
-        "sha512": "4613eb14e95a05cd7b23f40f59b97f7d12c5c715aba7100bc15af7bb0eee22a6aef527253624e7469fbea5072e5b7852b54bc9809c3f08772278b87be7973076"
+        "version": 353338,
+        "patch": 8307,
+        "sha1": "27b818d2862d5074aa5885ae98650b043d546e3a",
+        "sha256": "bc1a403025d660108a72b7b30e04a97c9f672c27679c1996f66a1709faedb17c",
+        "sha384": "2f9f29084b736d7e8dac49bb14485583092e262853b8cf93a799951dc405f359a59a30bf68fbc5da0fbf7e9883636e2d",
+        "sha512": "b3871bbe5fe9f2f164e6a24203dcad8870dd300128fc517397b958b1a413ad2de8267f4c30e98cf860d6a0ee6a0a2ec54162dab8713e63ca9c0a97b081004365"
     },
     "jp": {
         "name": "DataCenter_Final_JPN.dec",
@@ -82,11 +82,11 @@
     },
     "uk": {
         "name": "DataCenter_Final_EUR.dec",
-        "version": 350022,
-        "patch": 8205,
-        "sha1": "17fb9cd31a1c52178b86bd98f724267ccb5e40b3",
-        "sha256": "cdd113065bd02a5276bca003ae16c48404416db5942e484eb6e3a0ede1998a3b",
-        "sha384": "8d96de6fff919b39ea1b0c6fb2379c7fdd450f0ca6d10b9a2e3d637e60e541ad853454e0f6985a9b298803687e25919a",
-        "sha512": "95a6b87751d6143c69494f47fc1bac55687e8226e825d59fdf0ea317813205f3cc70f5cabd33f701fe30f7f03c7b2f0e11e82437ad7b01e16d3a6259525737d8"
+        "version": 353338,
+        "patch": 8307,
+        "sha1": "1f4a7a8b34f3bf9cecd20ab8ad964d6d964633a7",
+        "sha256": "c67381ec12bd1beb90f404094654cc533a578a7754f6bc60713bc3bd648ced56",
+        "sha384": "275db21835a178edfba535d4600bba1fa8df94c8f093ca9a69cb64aacd0ccf8c3d2b421a8fc2a8d7d8ba38a04c1c0688",
+        "sha512": "4e05136b27a00ea5865c4b21e3a65a90fdcf58d7831d209b8dd5d6ca9a797819f8656bc2fd51dc4bc23b3f661f2049e62c4568ab436cd4daa521faf0675085a7"
     }
 }
