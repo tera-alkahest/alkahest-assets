@@ -55,21 +55,21 @@
     },
     "se": {
         "name": "DataCenter_Final_SE.dec",
-        "version": 349932,
-        "patch": 8205,
-        "sha1": "4f5dc5cc9c181d65170ee320b76913534802268c",
-        "sha256": "e0b0f0562e6a3ac01874e5dadfef33d0b14bc7a9037052450553eebc08b2dee6",
-        "sha384": "9ec7465346d256c458fa6197fb94186fecda92a12ec3c74623181f61fb17112651d4c4ff58cb43e28c100146c1a8ad1c",
-        "sha512": "8e21b7c5b06df084ecb0fab44ed812e7529c530e9511bf39eddf9790ea12583cc9633ec1a8e40a34d2ad7ec5d308519407f5a0a077052f775f8c1a839279870f"
+        "version": 353339,
+        "patch": 8307,
+        "sha1": "9bddfcdc444b0139eeff3a37c96819f1ff54579c",
+        "sha256": "8cd7462fb16c05fb4a2ef652fa27747c7d9c5d59d93762c7594ae80bf85825f5",
+        "sha384": "d538bbaa358017c73738ede3e3b6e90b1c2b9d87e76c817a655e5f4c99d9574a1158c4e11dccdce3247ec7aa23d0e46c",
+        "sha512": "174ce3b5d632623b45eef93ec2b98d1a258b7081c0044e94651dcc30c9cf1378f2298e238b73d683c4412dddcdea8ef8a2842760536b8f8f0a085e1f88eab79b"
     },
     "th": {
         "name": "DataCenter_Final_THA.dec",
-        "version": 349932,
-        "patch": 8205,
-        "sha1": "6b21592ea01cf0941f951335e94e50b48745106c",
-        "sha256": "222b7e62d5e20da8778a0bdf59ef1fd0da292ecae996bcc2d903b73b1739a8a3",
-        "sha384": "25415f8a4117872338eb08e7c60cc70c0a4e976ae0e4182f1b13d733c8d1dad3ee80178d4b43c7d9e8702fd8eb2a06c2",
-        "sha512": "10365f8ba598ab82aa45cfe9a9c5adda90219edba06538fadf7e6674d0fabb571ff914de1622fce3c18221dd1b75a545007829f6defd5e4d3011595f4920bc94"
+        "version": 353339,
+        "patch": 8307,
+        "sha1": "b74064a7c84e9d6c56a597f5e20c53f46d8d2580",
+        "sha256": "2935dd297a6a8efbbb38493b953983b69e0aaa3ff524f085b4e7d9791c668cdb",
+        "sha384": "0048ffd03e950305fae8d6bd3d887cea188454084c0b85c292e1b83cdc5f4bfcdbf842b9a4a7e9ad201ade2b065c1ace",
+        "sha512": "3eadccf712045501dd76fe3579ff072abd7eda73123e92bffa3a84b0c15c976ab628ad9861ff4760b23c01e18f48ddd5384794276442ce7435ac60e4173260b1"
     },
     "tw": {
         "name": "DataCenter_Final_TW.dec",
