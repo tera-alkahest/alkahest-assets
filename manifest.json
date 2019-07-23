@@ -28,12 +28,12 @@
     },
     "kr": {
         "name": "DataCenter_Final.dec",
-        "version": 349974,
-        "patch": 8502,
-        "sha1": "0b6f66dc957a932894eab7152424df393b1231e2",
-        "sha256": "393d3a0d6dc9fe3c9e486ec7b65a8ece4e16c2026f5055efe933c6a5c0f27c87",
-        "sha384": "4c0579ca48feb5aa8994782bd6b8e3b13fc4e3a405bcaeef78fa63b61a20f0614f04a2451e67bd05765ae97077b44d87",
-        "sha512": "1bffa35e20d474feee2362f0b48fa82b6664449de3da6a4d1d83739bf6354ba45e5400893bb16f22064b36b3eae1711bb1604dac7c273bfed5e65ba038ea52f3"
+        "version": 351828,
+        "patch": 8505,
+        "sha1": "5d08aa8e59b414db7dd8657bcbc0d86172c8ea1a",
+        "sha256": "eb66ab2c71e0ec0892939e5556c6ad7e9634a8fa23f6838ca29b1f82d2e33117",
+        "sha384": "72e94ab6efdc414981d2659c63708c786a5292878de266cfb187188fae27e4bfb4b907e55820e9345c86c27ac5daebf0",
+        "sha512": "273488482732525fc8bacab3b5ce6d50749388fb7fca7b59a6133eb0c0b805dd794f1cfa984ecf9e7a73c93a4d43f92177107b7a1f57a737890af56cbdee311d"
     },
     "na": {
         "name": "DataCenter_Final_USA.dec",
@@ -73,12 +73,12 @@
     },
     "tw": {
         "name": "DataCenter_Final_TW.dec",
-        "version": 350025,
-        "patch": 8205,
-        "sha1": "705f43ac9969a1420130b46692089c9a0dcaef04",
-        "sha256": "156e97388a6eb3d42c5a8e89fae614277c5601a48cd3f065f4f5a2f15aa83212",
-        "sha384": "fed1db7f3d5c2c97eaae1dc0348d69e375c45a290db7bd76c385a6acfbca8c7c56910ddff1078fabd43908e5fe140850",
-        "sha512": "b201457b82b1cb2487f76320b7603c2a99e8a064544450ce54dbee542d3f0c318ef91c907acbc201f5f4729ef2ab63b92c1de5be829b2c576b86fb8bb8442311"
+        "version": 353340,
+        "patch": 8307,
+        "sha1": "a2f8d519b3833970b06eba81cb55bff59955abdc",
+        "sha256": "a7825674b461c8e8f63dc4ebd56715a9dfee99bf1421341034378e32b6b72cc4",
+        "sha384": "9e663c3967d9a14862010596e40897211b62b866f091cfc4646770b51c19d22187e5b77863e76d3f7b1d11517436c682",
+        "sha512": "fe4bfd863c80c1e4c929b1a8ea8da266a0f55286ddfc06a27b437424cc08cad86c55af597c5c0d372c4d47127a770758738ee60bb7762d48bb6291659834fbc7"
     },
     "uk": {
         "name": "DataCenter_Final_EUR.dec",
